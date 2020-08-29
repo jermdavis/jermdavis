@@ -1,1 +1,1 @@
-![Herding cats](./jermdavis/cats.jpg "Herding cats")
+![Herding cats](https://github.com/jermdavis/jermdavis/blob/master/cats.jpg?raw=true "Herding cats")
