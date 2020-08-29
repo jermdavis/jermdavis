@@ -1,1 +1,1 @@
-![Herding cats](./cats.jpg "Herding cats")
+![Herding cats](jermdavis/cats.jpg "Herding cats")
